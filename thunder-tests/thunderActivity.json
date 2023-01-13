@@ -1,0 +1,16 @@
+[
+  {
+    "_id": "cdfab774-02d1-4f3e-86ca-9b6c925f1bfb",
+    "colId": "history",
+    "containerId": "",
+    "name": "localhost:3000/ping",
+    "url": "localhost:3000/ping",
+    "method": "GET",
+    "sortNum": 0,
+    "created": "2023-01-13T02:48:52.352Z",
+    "modified": "2023-01-13T02:48:52.352Z",
+    "headers": [],
+    "params": [],
+    "tests": []
+  }
+]
